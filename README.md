@@ -38,3 +38,5 @@ Mám aj Youtube kanál [Sen9068], kde robím tutorialy na Minecraft pluginy aleb
 <img align="left" alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
 <img align="left" alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
 <br />
+ 
+[Sen9068]: https://www.youtube.com/@Sen9068YT
