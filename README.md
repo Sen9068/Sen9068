@@ -1,5 +1,9 @@
 <h1 align="center">Čauko 👋</h1>
 
+<br>
+
+<br />
+
 <h2 align="center">Video Editor • Junior Dev • Minecraft Server Owner</h2>
 
 <p3>Už sa cez 6 rokov venujem vývoju Minecraft serverov. Učím sa React a Kotlin. 
