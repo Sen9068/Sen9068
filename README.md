@@ -2,10 +2,10 @@
 
 <h3 align="center">Video Editor • Junior Dev • Minecraft Server Owner</h3>
 
-Už sa cez 6 rokov venujem vývoju Minecraft serverov. Učím sa React a Kotlin. 
+<h4>Už sa cez 6 rokov venujem vývoju Minecraft serverov. Učím sa React a Kotlin. 
 Kotlin sa učím na vývoj vlastných Minecraft pluginov a React na vývoj mojeho budúceho
 portfólia. Taktiež viem aj robiť v minecrafte cez Skript, viem HTML, CSS, Lua a trocha Python.
-Mám aj Youtube kanál [Sen9068], kde robím tutorialy na Minecraft pluginy alebo nejaké iné videjká.
+Mám aj Youtube kanál [Sen9068], kde robím tutorialy na Minecraft pluginy alebo nejaké iné videjká.</h4>
 
 <p align="center">
   <a href="https://www.youtube.com/@Sen9068YT">
