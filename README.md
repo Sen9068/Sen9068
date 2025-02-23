@@ -30,6 +30,7 @@ Mám aj Youtube kanál [Sen9068], kde robím tutorialy na Minecraft pluginy aleb
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 
 <br />
+
 <br />
 
 ## ⭐ Projekty
