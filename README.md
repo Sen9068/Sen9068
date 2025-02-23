@@ -5,7 +5,7 @@
 <h3>Už sa cez 6 rokov venujem vývoju Minecraft serverov. Učím sa React a Kotlin. 
 Kotlin sa učím na vývoj vlastných Minecraft pluginov a React na vývoj mojeho budúceho
 portfólia. Taktiež viem aj robiť v minecrafte cez Skript, viem HTML, CSS, Lua a trocha Python.
-Mám aj Youtube kanál [Sen9068], kde robím tutorialy na Minecraft pluginy alebo nejaké iné videjká.</h3>
+Mám aj Youtube kanál <a href="https://www.youtube.com/c/Sen9068" target="_blank">Sen9068</a>, kde robím tutorialy na Minecraft pluginy alebo nejaké iné videjká.</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@Sen9068YT">
