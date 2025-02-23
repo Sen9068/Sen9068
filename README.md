@@ -35,7 +35,10 @@ Mám aj Youtube kanál <a href="https://www.youtube.com/c/Sen9068" target="_blan
 
 ## ⭐ Projekty
 
-<img align="left" alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
+<a href="https://discord.enderix.eu" target="_blank">
+    <img align="left" alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
+</a>
+
 <img align="left" alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
 <br />
  
