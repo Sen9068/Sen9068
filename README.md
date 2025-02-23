@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@Sen9068YT">
+  <a href="https://www.youtube.com/c/Sen9068YT?sub_confirmation=1">
     <img alt="Youtube Odbery" title="Daj odber!" 
          src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6032nB17GZcfg?color=32E05D44&label=DAJ ODBER&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a>
