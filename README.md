@@ -42,5 +42,5 @@ Mám aj Youtube kanál <a href="https://www.youtube.com/c/Sen9068" target="_blan
 ## 📊 Github
 
 <a href="https://github.com/askarax200">
-    <img alt="Jiří Žák's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=react&border_color=66B5F5&bg_color=41A4F5&title_color=111111&icon_color=78C3FF" height="192px" width="49.5%"/>
+    <img alt="Jiří Žák's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=react&border_color=66B5F5&bg_color=41A4F5&title_color=111111&icon_color=41A4F5" height="192px" width="49.5%"/>
 </a>
