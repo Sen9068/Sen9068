@@ -1,6 +1,6 @@
 # Čauko 👋
 
-**`Video Editor • Junior Dev • Minecraft Server Owner`**
+<h3 align="center">**`Video Editor • Junior Dev • Minecraft Server Owner`**</h3>
 
 Už sa cez 6 rokov venujem vývoju Minecraft serverov. Učím sa React a Kotlin. 
 Kotlin sa učím na vývoj vlastných Minecraft pluginov a React na vývoj mojeho budúceho
