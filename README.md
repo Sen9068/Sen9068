@@ -1,4 +1,4 @@
-# Čauko 👋
+<h1 align="center">Čauko 👋</h1>
 
 <h2 align="center">Video Editor • Junior Dev • Minecraft Server Owner</h2>
 
