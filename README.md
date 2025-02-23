@@ -39,4 +39,8 @@ Mám aj Youtube kanál <a href="https://www.youtube.com/c/Sen9068" target="_blan
 <img align="left" alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
 <br />
  
-[Sen9068]: https://www.youtube.com/@Sen9068YT
+## 📊 Github
+
+<a href="https://github.com/askarax200">
+    <img alt="Jiří Žák's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=askarax200&show_icons=true&count_private=true&theme=react&border_color=8D17DC&bg_color=0c0014&title_color=8D17DC&icon_color=8D17DC" height="192px" width="49.5%"/>
+</a>
