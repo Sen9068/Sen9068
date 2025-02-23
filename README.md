@@ -7,7 +7,7 @@ Kotlin sa učím na vývoj vlastných Minecraft pluginov a React na vývoj mojeh
 portfólia. Taktiež viem aj robiť v minecrafte cez Skript, viem HTML, CSS, Lua a trocha Python.
 Mám aj Youtube kanál [Sen9068], kde robím tutorialy na Minecraft pluginy alebo nejaké iné videjká.
 
-<p allign="center">
+<p align="center">
   <a href="https://www.youtube.com/@Sen9068YT">
     <img alt="Youtube Odbery" title="Daj odber!" 
          src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6032nB17GZcfg?color=32E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
