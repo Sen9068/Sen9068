@@ -40,7 +40,7 @@
 
 ## ⭐ Projekty
 
-<a href="https://discord.enderix.eu" target="_self">
+<a href="https://www.enderix.eu/" target="_self">
     <img align="left" alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
 </a>
 
@@ -54,5 +54,5 @@
 ## 📊 Github
 
 <a href="https://github.com/sen9068">
-    <img alt="Jiří Žák's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=react&border_color=66B5F5&bg_color=41A4F5&title_color=111111&icon_color=FFFFFF" height="192px" width="49.5%"/>
+    <img alt="Sen9068 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=react&border_color=66B5F5&bg_color=41A4F5&title_color=111111&icon_color=FFFFFF" height="192px" width="49.5%"/>
 </a>
