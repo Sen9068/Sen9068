@@ -1,8 +1,6 @@
 <h1>Čauko, som Sen9068 👋</h1>
 
 
-<br />
-
 <h2 align="center">Video Editor • Junior Developer • Minecraft Server Owner</h2>
 
 <details align="center">
