@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## 🚀 Programovacie Jazyky a Nástroje
+<h2 align="center">🚀 Programovacie Jazyky a Nástroje</h2>
 
 <p align="center">
   <img alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
