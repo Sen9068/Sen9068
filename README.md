@@ -1,16 +1,25 @@
 <h1>Čauko, som Sen9068 👋</h1>
+<br>
 
+</br>
 
 <h2 align="center">Video Editor • Junior Developer • Minecraft Server Owner</h2>
 
 <details align="center">
   <summary><strong>O mne</strong> – Už viac ako 6 rokov sa venujem vývoju Minecraft serverov. Aktuálne sa učím React a Kotlin. 💻</summary>
-  <p>
-    Kotlin používam na vývoj vlastných Minecraft pluginov, zatiaľ čo React využívam pri vývoji môjho budúceho portfólia. Okrem toho mám skúsenosti s Minecraft skriptovaním pomocou Skriptu a s jazykmi ako HTML, CSS, Lua a trošku Python. 
-    Mám aj YouTube kanál, kde zverejňujem tutoriály na Minecraft pluginy a iné zaujímavé videá. 
-    Pozri si môj kanál <a href="https://www.youtube.com/c/Sen9068" target="_blank">Sen9068</a> pre viac informácií!
+  <p style="transition: opacity 0.3s ease-in-out; opacity: 0;">
+    S viac ako 6-ročnou skúsenosťou vo vývoji Minecraft serverov som sa rozhodol rozšíriť svoje zručnosti a začať sa venovať aj vývoju v jazykoch ako Kotlin a React.
+    <br /><br />
+    <strong>Kotlin</strong> používam na vývoj vlastných Minecraft pluginov, kde sa zameriavam na tvorbu unikátnych herných mechanizmov a vylepšení. <br />
+    <strong>React</strong> využívam pri vývoji svojho portfólia a aplikácií, kde sa zameriavam na moderné, interaktívne webové aplikácie.
+    <br /><br />
+    Okrem toho mám skúsenosti so Skriptom pre Minecraft a ovládam základné jazyky ako <strong>HTML</strong>, <strong>CSS</strong>, <strong>Lua</strong> a základný <strong>Python</strong>.
+    <br /><br />
+    🎥 Mám tiež YouTube kanál, na ktorom pravidelne zverejňujem tutoriály a videá zamerané na vývoj Minecraft pluginov a iných zaujímavých projektov. 
+    Pozri si môj kanál <a href="https://www.youtube.com/c/Sen9068" target="_blank">Sen9068</a> pre viac informácií a zaujímavé videá!
   </p>
 </details>
+
 
 <p align="center">
   <a href="https://www.youtube.com/c/Sen9068YT?sub_confirmation=1">
