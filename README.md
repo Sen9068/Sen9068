@@ -28,7 +28,7 @@
   </a>
   <a href="https://github.com/Sen9068?tab=followers">
     <img alt="Followers" title="Daj mi follow na Githube" 
-         src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/followers/Sen9068?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
 
