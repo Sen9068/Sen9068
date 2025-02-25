@@ -41,15 +41,15 @@
 
 ## ⭐ Projekty
 
-<p align="center">
-  <a href="https://www.enderix.eu/" target="_self">
-    <img alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
-  </a>
-  <br />
-  <a href="https://discord.gg/qf4XW6GFcD" target="_self">
-    <img alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
-  </a>
-</p>
+<a href="https://www.enderix.eu/" target="_self">
+    <img align="left" alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
+</a>
+
+<a href="https://discord.gg/qf4XW6GFcD" target="_self">
+<img align="left" alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
+</a>
+
+<br />
 
 ## 📊 Github Štatistiky
 
