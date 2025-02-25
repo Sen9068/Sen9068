@@ -60,6 +60,11 @@
 
 <h2 align="center">📊 Github Štatistiky</h2>
 
-<a href="https://github.com/sen9068">
-  <img alt="Sen9068 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=react&border_color=66B5F5&bg_color=41A4F5&title_color=111111&icon_color=FFFFFF" height="192px" width="49.5%"/>
-</a>
+<div align="center">
+  <a href="https://github.com/sen9068">
+    <img alt="Sen9068 Github Stats" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=radical&border_color=FFD700&bg_color=2D2D2D&title_color=FFFFFF&icon_color=FFD700" 
+         height="192px" width="49.5%"/>
+  </a>
+</div>
+
