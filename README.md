@@ -39,26 +39,26 @@
 
 <br />
 
-## ⭐ Projekty
+<h2 align="center">⭐ Projekty</h2>
 
 <div align="center">
   <a href="https://www.enderix.eu/" target="_self">
-    <img alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
+    <img alt="Enderix" width="50px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
   </a>
 
   <a href="https://discord.gg/qf4XW6GFcD" target="_self">
-    <img alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
+    <img alt="Senové Lázne" width="50px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
   </a>
 
   <a href="https://discord.gg/qf4XW6GFcD" target="_self">
-    <img alt="EndCore" width="30px" style="padding-right:10px;" src="https://i.imgur.com/nJBMSQL.png"/>
+    <img alt="EndCore" width="50px" style="padding-right:10px;" src="https://i.imgur.com/nJBMSQL.png"/>
   </a>
 </div>
 
 
 <br />
 
-## 📊 Github Štatistiky
+<h2 align="center">📊 Github Štatistiky</h2>
 
 <a href="https://github.com/sen9068">
   <img alt="Sen9068 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=react&border_color=66B5F5&bg_color=41A4F5&title_color=111111&icon_color=FFFFFF" height="192px" width="49.5%"/>
