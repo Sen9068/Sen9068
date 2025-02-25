@@ -49,6 +49,10 @@
   <a href="https://discord.gg/qf4XW6GFcD" target="_self">
     <img alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
   </a>
+
+  <a href="https://discord.gg/qf4XW6GFcD" target="_self">
+    <img alt="EndCore" width="30px" style="padding-right:10px;" src="https://i.imgur.com/nJBMSQL.png"/>
+  </a>
 </div>
 
 
