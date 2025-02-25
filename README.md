@@ -24,7 +24,7 @@
 <p align="center">
   <p align="center">
    <a href="https://www.youtube.com/channel/UC3eQWJmjOwjwA7z2tUOUm4Q" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3eQWJmjOwjwA7z2tUOUm4Q?color=32E05D44&label=DAJ%20ODBER&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" 
+    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNUlQAu3hY7IcIUBDjsgweg?color=236ad3&label=DAJ%20ODBER&logo=video&logoColor=white&style=for-the-badge&labelColor=1155ba"
          alt="Subscribe Badge" />
   </a>
   <a href="https://github.com/Sen9068?tab=followers">
