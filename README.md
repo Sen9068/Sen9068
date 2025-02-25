@@ -42,15 +42,27 @@
 ## ⭐ Projekty
 
 <p align="center">
-  <a href="https://www.enderix.eu/" target="_self">
-    <img alt="Enderix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
-    <strong>Enderix</strong> - Minecraft server
+  <a href="https://www.enderix.eu/" target="_blank">
+    <img alt="Enderix" width="50px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
+    <strong>Enderix</strong> – A Minecraft server focused on creating an engaging community and custom gameplay experiences.
   </a>
   <br />
-  <a href="https://discord.gg/qf4XW6GFcD" target="_self">
-    <img alt="Senové Lázne" width="30px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
-    <strong>Senové Lázne</strong> - Discord server
+  <a href="https://discord.gg/qf4XW6GFcD" target="_blank">
+    <img alt="Senové Lázne" width="50px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
+    <strong>Senové Lázne</strong> – A Discord server dedicated to bringing together players, developers, and creators in a relaxed environment.
   </a>
+</p>
+
+<p align="center">
+  <strong>💡 Key Features:</strong>
+  <ul>
+    <li><em>Enderix</em>: Custom plugins, unique events, and a vibrant Minecraft community.</li>
+    <li><em>Senové Lázne</em>: Community-focused discussions, events, and collaboration with other creators.</li>
+  </ul>
+</p>
+
+<p align="center">
+  <strong>Check out these awesome projects!</strong>
 </p>
 
 ## 📊 Github Štatistiky
