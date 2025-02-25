@@ -46,11 +46,11 @@
     <img alt="Enderix" width="50px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
   </a>
 
-  <a href="https://discord.gg/qf4XW6GFcD" target="_self">
+  <a href="https://dsc.gg/senovelazne" target="_self">
     <img alt="Senové Lázne" width="50px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
   </a>
 
-  <a href="https://discord.gg/qf4XW6GFcD" target="_self">
+  <a href="https://dsc.gg/endcore" target="_self">
     <img alt="EndCore" width="50px" style="padding-right:10px;" src="https://i.imgur.com/nJBMSQL.png"/>
   </a>
 </div>
