@@ -16,7 +16,7 @@
     Okrem toho mám skúsenosti so Skriptom pre Minecraft a ovládam základné jazyky ako <strong>HTML</strong>, <strong>CSS</strong>, <strong>Lua</strong> a základný <strong>Python</strong>.
     <br /><br />
     🎥 Mám tiež YouTube kanál, na ktorom pravidelne zverejňujem tutoriály a videá zamerané na vývoj Minecraft pluginov a iných zaujímavých projektov. 
-    Pozri si môj kanál <a href="https://www.youtube.com/c/Sen9068" target="_blank">Sen9068</a> pre viac informácií a zaujímavé videá!
+    Pozri si môj kanál <a href="https://www.youtube.com/c/senous_" target="_blank">Sen9068</a> pre viac informácií a zaujímavé videá!
   </p>
 </details>
 
@@ -41,7 +41,7 @@
   <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </p>
 
 <br />
