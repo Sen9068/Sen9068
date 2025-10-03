@@ -36,34 +36,16 @@
 <h2 align="center">🚀 Programovacie Jazyky a Nástroje</h2>
 
 <p align="center">
-  <img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
   <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </p>
 
 <br />
 
-<h2 align="center">⭐ Projekty</h2>
-
-<div align="center">
-  <a href="https://www.enderix.eu/" target="_self">
-    <img alt="Enderix" width="50px" style="padding-right:10px;" src="https://i.imgur.com/Li79mec.png"/>
-  </a>
-
-  <a href="https://dsc.gg/senovelazne" target="_self">
-    <img alt="Senové Lázne" width="50px" style="padding-right:10px;" src="https://i.imgur.com/MvkCnve.png"/>
-  </a>
-
-  <a href="https://dsc.gg/..." target="_self">
-    <img alt="EndCore" width="50px" style="padding-right:10px;" src="https://i.imgur.com/nJBMSQL.png"/>
-  </a>
-</div>
 
 
 <br />
