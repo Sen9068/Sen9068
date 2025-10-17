@@ -21,18 +21,6 @@
 </details>
 
 
-<p align="center">
-  <p align="center">
-   <a href="https://www.youtube.com/channel/UC3eQWJmjOwjwA7z2tUOUm4Q" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC3eQWJmjOwjwA7z2tUOUm4Q?color=FF5858&label=DAJ%20ODBER&logo=video&logoColor=white&style=for-the-badge&labelColor=FF5858" 
-         alt="Subscribe Badge" />
-  </a>
-  <a href="https://github.com/Sen9068?tab=followers">
-    <img alt="Followers" title="Daj mi follow na Githube" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Sen9068?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
-
 <h2 align="center">🚀 Programovacie Jazyky a Nástroje</h2>
 
 <p align="center">
