@@ -1,4 +1,4 @@
-<h1>Čauko, som Sen9068! 👋</h1>
+<h1>Čauko, som Sen9068 👋</h1>
 <br>
 
 </br>
