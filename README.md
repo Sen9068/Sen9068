@@ -1,12 +1,12 @@
-<h1>Čauko, som Sen9068! 👋</h1>
+<h1>Hi, my name is Zak 👋</h1>
 <br>
 
 </br>
 
-<h2 align="center">Video Editor • Junior Developer • Minecraft Server Owner</h2>
+<h2 align="center">I'm a Minecraft server developer</h2>
 
 <details align="center">
-  <summary><strong>O mne</strong> – Už viac ako 6 rokov sa venujem vývoju Minecraft serverov. Aktuálne sa zaoberám developovaním Minecraft pluginov. 💻</summary>
+  <summary><strong>About me</strong> – Už viac ako 6 rokov sa venujem vývoju Minecraft serverov. Aktuálne sa zaoberám developovaním Minecraft pluginov. 💻</summary>
   <p style="transition: opacity 0.3s ease-in-out; opacity: 0;">
     S viac ako 6-ročnou skúsenosťou vo vývoji Minecraft serverov som sa rozhodol rozšíriť svoje zručnosti a začať sa venovať aj vývoju v jazykoch ako Kotlin a React.
     <br /><br />
