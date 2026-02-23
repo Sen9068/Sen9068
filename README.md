@@ -7,21 +7,10 @@
 
 <details align="center">
   <strong>About me</strong> - I have 6 years of experience in making Minecraft Servers and around a year of experience in making Minecraft plugins. 💻
-  <p style="transition: opacity 0.3s ease-in-out; opacity: 0;">
-    S viac ako 6-ročnou skúsenosťou vo vývoji Minecraft serverov som sa rozhodol rozšíriť svoje zručnosti a začať sa venovať aj vývoju v jazykoch ako Kotlin a React.
-    <br /><br />
-    <strong>Kotlin</strong> používam na vývoj vlastných Minecraft pluginov, kde sa zameriavam na tvorbu unikátnych herných mechanizmov a vylepšení. <br />
-    <strong>React</strong> využívam pri vývoji svojho portfólia a aplikácií, kde sa zameriavam na moderné, interaktívne webové aplikácie.
-    <br /><br />
-    Okrem toho mám skúsenosti so Skriptom pre Minecraft a ovládam základné jazyky ako <strong>HTML</strong>, <strong>CSS</strong>, <strong>Lua</strong> a základný <strong>Python</strong>.
-    <br /><br />
-    🎥 Mám tiež YouTube kanál, na ktorom pravidelne zverejňujem tutoriály a videá zamerané na vývoj Minecraft pluginov a iných zaujímavých projektov. 
-    Pozri si môj kanál <a href="https://www.youtube.com/c/senous_" target="_blank">Sen9068</a> pre viac informácií a zaujímavé videá!
-  </p>
 </details>
 
 
-<h2 align="center">🚀 Programovacie Jazyky a Nástroje</h2>
+<h2 align="center">🚀 Languages I use</h2>
 
 <p align="center">
   <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
