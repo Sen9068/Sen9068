@@ -5,9 +5,7 @@
 
 <h2 align="center">I'm a Minecraft Server developer</h2>
 
-<details>
   <strong>About me</strong> - I have 6 years of experience in making Minecraft Servers and around a year of experience in making Minecraft plugins. 💻
-</details>
 
 
 <h2 align="center">🚀 Languages I use</h2>
