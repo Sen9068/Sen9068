@@ -6,8 +6,8 @@
 ### 💼 About Me
 - 🔧 Developed and maintained **Minecraft servers** for 6+ years
 - 💡 Built custom **plugins** for my Minecraft servers
-- 🛠️ Passionate about clean code, performance optimization, and player engagement
-- 🌐 Experience in **Java**, **HTML5**, and **CSS3**
+- 🛠️ Actively learning **Python** so I can create handy tools (CLI and GUI based)
+- 🌐 Experience in **Java**, **HTML5**, **CSS3** and **Python**
 - 📈 Active contributor to Minecraft communities and open-source plugin projects
 
 ---
@@ -15,9 +15,9 @@
 ### 🚀 Tech Stack
 <p align="center">
   <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
           
 </p>
 
