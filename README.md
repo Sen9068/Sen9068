@@ -25,10 +25,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/sen9068">
-    <img alt="Zak's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sen9068&show_icons=true&count_private=true&theme=radical&border_color=FFD700&bg_color=2D2D2D&title_color=FFFFFF&icon_color=FFD700" height="192px" width="49.5%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sen9068&theme=react-dark&hide_border=true&bg_color=0D1B2A&color=57C5F7&line=2176ae&point=57C5F7&area=true&area_color=1a3a5c" width="100%" />
 </div>
+  </a>
 
 ---
 
