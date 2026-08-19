@@ -7,7 +7,7 @@
 - 🔧 Developed and maintained **Minecraft servers** for 6+ years
 - 💡 Built custom **plugins** for my Minecraft servers
 - 🛠️ Actively learning **Python** so I can create handy tools **(CLI and GUI based)**
-- 🌐 Experience in **Java**, **HTML5**, **CSS3** and **Python**
+- 🌐 Experience in **Java**, **HTML5**, **CSS3**, **Python** and **C++ (Raylib)**
 - 📈 Active contributor to Minecraft communities and open-source plugin projects
 
 ---
